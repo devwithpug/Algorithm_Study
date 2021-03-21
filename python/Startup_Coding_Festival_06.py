@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # UTF-8 encoding when using korean
 
+# SOLVED
+
 class Content():
     def __init__(self, played, genre, g_p, row, col):
         self.played = played

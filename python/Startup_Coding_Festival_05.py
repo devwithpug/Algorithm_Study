@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # UTF-8 encoding when using korean
 
+# SOLVED
+
 size = int(input())
 matrix = []
 result = []
