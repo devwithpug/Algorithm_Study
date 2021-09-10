@@ -2,3 +2,7 @@ target/
 .DS_Store
 .idea
 *.iml
+
+AlgorithmStudy/
+*_unsolved*
+pom.xml
