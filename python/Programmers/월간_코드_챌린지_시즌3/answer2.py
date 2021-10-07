@@ -17,6 +17,7 @@ def solution(n, left, right):
 
 
 print(solution(3, 2, 5))
+print(solution(10**7, 10**5, 10**6))
 # 1 2 3 4 5
 # 2 2 3 4 5
 # 3 3 3 4 5
